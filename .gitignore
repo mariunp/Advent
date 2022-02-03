@@ -1,3 +1,4 @@
 #ignore all .exe and .txt files
 *.exe
 *.txt
+*.gitignore
